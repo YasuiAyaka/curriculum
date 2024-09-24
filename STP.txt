@@ -11,7 +11,7 @@ Switch２　F0／1 ルート
 Switch３　F0／1 指定ポート
          F0／2 指定ポート
 
-Switch３　F0／1 指定ポート
+Switch4　F0／1 指定ポート
          F0／2 ルート
 
 
